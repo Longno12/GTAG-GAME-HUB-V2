@@ -10,9 +10,9 @@ class GameLauncherApp:
 
         self.games = {
             "Shiba-Gt Temp": "https://cdn.discordapp.com/attachments/1166660207884111903/1197700503681900614/ShibaGTTemplate.zip?ex=65bc3884&is=65a9c384&hm=66a1e812dbe0f7f96bbca81230d6b1baaf0a5239f0dfeec75dfc7ab280023dc3&",
-            "iis Temp": "https://cdn.discordapp.com/attachments/1166660207884111903/1197700504017449000/iis_Stupid_Templat3e.zip?ex=65bc3884&is=65a9c384&hm=a1dc47050f53a2c606ea16d92c306d49e6c73d32a7f9a8279d121ae46c13d733&",
+            "iis Temp": "https://cdn.discordapp.com/attachments/1169905985222094848/1215972290794360962/lost_the_money_in_my_bank_account.zip?ex=6607ebf1&is=65f576f1&hm=1b964b7bcc700e3f47aaec8afecf7b72c9fbc73806a084f6c838b9773d269070&",
             "KMan Temp": "https://cdn.discordapp.com/attachments/1166660207884111903/1197700504332029972/Templatekman_1.zip?ex=65bc3884&is=65a9c384&hm=24048539edab0a2a5d2df603bba84d6f6bc147e093024c43e0d04d7f5c48f2f0&",
-            "Menu TuT": "https://youtu.be/6uOY6SmTyEk?si=grkgu6oeNClDNv6s",
+            "My Yt With Tuts": "https://www.youtube.com/@2024joe",
         }
 
         self.create_gui()
